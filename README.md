@@ -6,7 +6,7 @@
 
 Bu Business Analysis case study-si mövcud sabit tarif modelini təhlil edir və gediş haqqının faktiki məsafəyə əsasən hesablandığı alternativ sistem təklif edir.
 
-## Problem
+### Problem
 
 Sabit tarif modeli:
 
@@ -15,7 +15,7 @@ Sabit tarif modeli:
 * Marşrut gəlirliliyinin ölçülməsini çətinləşdirir.
 * Resurs və marşrut planlamasını real məlumatlarla dəstəkləmir.
 
-## Təklif olunan həll
+### Təklif olunan həll
 
 Sərnişin avtobusa minərkən `tap-in`, enərkən isə `tap-out` edir. Sistem GPS vasitəsilə qət edilən məsafəni müəyyənləşdirir və gediş haqqını avtomatik hesablayır.
 
