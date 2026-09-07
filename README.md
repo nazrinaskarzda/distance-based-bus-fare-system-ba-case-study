@@ -45,8 +45,8 @@ IT Biznes Analitik kimi:
 | Stakeholder sualları               | [Word faylı](https://docs.google.com/document/d/1dLZVW4cy71SPCmtWMWcJerUv9o5uaH-aQfFfRMerl7I/edit?usp=share_link)             | [PDF-də bax](03_Stakeholder_Questions.pdf)            |
 | AS-IS və TO-BE proses modeli       | [Şəkilə bax](04_AsIs_ToBe_Process.png)                  | —                                                     |
 | Requirements Traceability Matrix   | [Excel faylı](https://docs.google.com/spreadsheets/d/1-Jd-W4IrwSqAWyTADc83emAJabu6BjYt/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true) | [PDF-də bax](05_Requirements_Traceability_Matrix.pdf) |
-| Edge Case Analysis                 | [Excel faylı]((https://docs.google.com/spreadsheets/d/1H9zteD5qL1adyXg9rq4ib22g6uu0DAH8OesFKimBMb4/edit?usp=share_link))                       | [PDF-də bax](06_Edge_Cases.pdf)                       |
-| Risk və Assumption Log             | [Excel faylı](https://docs.google.com/spreadsheets/d/1kLtNVg4lDHStgixTEowKh2wmMZC_WRHS/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true))             | [PDF-də bax](07_Risk_Assumptions_Log.pdf)             |
+| Edge Case Analysis                 | [Excel faylı]((https://docs.google.com/spreadsheets/d/1H9zteD5qL1adyXg9rq4ib22g6uu0DAH8OesFKimBMb4/edit?usp=share_link)                       | [PDF-də bax](06_Edge_Cases.pdf)                       |
+| Risk və Assumption Log             | [Excel faylı](https://docs.google.com/spreadsheets/d/1kLtNVg4lDHStgixTEowKh2wmMZC_WRHS/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true)             | [PDF-də bax](07_Risk_Assumptions_Log.pdf)             |
 
 ## İstifadə edilən bacarıqlar
 
