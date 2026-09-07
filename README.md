@@ -57,4 +57,4 @@ IT Biznes Analitik kimi:
 **Hazırlayan:** Nazrin Askarzada
 **Rol:** IT Business Analyst
 
-> Bu, şəxsi portfolio üçün hazırlanmış konseptual case study-dir və real qurumun rəsmi layihəsini təmsil etmir.
+> Bu şəxsi portfolio üçün hazırlanmış konseptual case study-dir və real qurumun rəsmi layihəsini təmsil etmir.
