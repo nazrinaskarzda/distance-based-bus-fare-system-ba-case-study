@@ -41,12 +41,12 @@ IT Biznes Analitik kimi:
 | Sənəd                              | Orijinal fayl                                           | PDF versiyası                                         |
 | ---------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
 | Mövcud prosesin analizi            | [Google Docs-da aç](https://docs.google.com/document/d/1JqVcDvxxCE1gt8EwD7UM05C87j-SCr3xz3J1xLG9m_Y/edit?usp=share_link)          | [PDF-də bax](Current_Process_Analysis.pdf)         |
-| Stakeholder analizi və RACI Matrix | [Excel faylı](https://docs.google.com/spreadsheets/d/1NmJRZR0KmWYjnzHggfxzF9HoG_R35itP/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true)             | [PDF-də bax](Stakeholder_Analysis.pdf)             |
+| Stakeholder analizi və RACI Matrix | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1NmJRZR0KmWYjnzHggfxzF9HoG_R35itP/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true)             | [PDF-də bax](Stakeholder_Analysis.pdf)             |
 | Stakeholder sualları               | [Google Docs-da aç](https://docs.google.com/document/d/1dLZVW4cy71SPCmtWMWcJerUv9o5uaH-aQfFfRMerl7I/edit?usp=share_link)             | [PDF-də bax](Stakeholder_Questions.pdf)            |
 | AS-IS və TO-BE proses modeli       | [Şəkilə bax](AsIs_ToBe_Process.png)                  | —                                                     |
-| Requirements Traceability Matrix   | [Excel faylı](https://docs.google.com/spreadsheets/d/1-Jd-W4IrwSqAWyTADc83emAJabu6BjYt/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true) | [PDF-də bax](Requirements_Traceability_Matrix.pdf) |
-| Edge Case Analysis                 | [Excel faylı](https://docs.google.com/spreadsheets/d/1H9zteD5qL1adyXg9rq4ib22g6uu0DAH8OesFKimBMb4/edit?usp=share_link)                       | [PDF-də bax](Edge_Cases.pdf)                       |
-| Risk və Assumption Log             | [Excel faylı](https://docs.google.com/spreadsheets/d/1kLtNVg4lDHStgixTEowKh2wmMZC_WRHS/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true)             | [PDF-də bax](Risk_Assumptions_Log.pdf)             |
+| Requirements Traceability Matrix   | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1-Jd-W4IrwSqAWyTADc83emAJabu6BjYt/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true) | [PDF-də bax](Requirements_Traceability_Matrix.pdf) |
+| Edge Case Analysis                 | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1H9zteD5qL1adyXg9rq4ib22g6uu0DAH8OesFKimBMb4/edit?usp=share_link)                       | [PDF-də bax](Edge_Cases.pdf)                       |
+| Risk və Assumption Log             | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1kLtNVg4lDHStgixTEowKh2wmMZC_WRHS/edit?usp=share_link&ouid=116434697923266657001&rtpof=true&sd=true)             | [PDF-də bax](Risk_Assumptions_Log.pdf)             |
 
 ## İstifadə edilən bacarıqlar
 
