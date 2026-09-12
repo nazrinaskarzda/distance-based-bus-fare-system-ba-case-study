@@ -92,11 +92,11 @@ Məsafəyə əsaslanan dinamik tarif sistemi sərnişinin minmə və enmə nöqt
 
 | Məsafə | Təxmini tarif aralığı |
 | --- | ---: |
-| 0–2 km | 0,40–0,50 AZN |
-| 2–5 km | 0,55–0,70 AZN |
-| 5–10 km | 0,75–1,00 AZN |
-| 10–15 km | 1,10–1,40 AZN |
-| 15 km-dən çox | 1,50–2,00 AZN |
+| 0–2 km | 0,40-0,50 AZN |
+| 2–5 km | 0,5-0,70 AZN |
+| 5–10 km | 0,75-1,00 AZN |
+| 10–15 km | 1,10-1,40 AZN |
+| 15 km-dən çox | 1,50-2,00 AZN |
 
 ### Güzəştli tariflər
 
